@@ -16,10 +16,10 @@ function App() {
       <Navbar />
       <main className="pt-16">
         <Hero />
-        <section id="about">
+        <section id="about" className="scroll-mt-24">
           <About />
         </section>
-        <section id="services">
+        <section id="services" className="scroll-mt-24">
           <Services />
         </section>
         <Doctor />
@@ -27,7 +27,7 @@ function App() {
         <Gallery />
         <Testimonials />
         <Booking />
-        <section id="contact">
+        <section id="contact" className="scroll-mt-24">
           <Contact />
         </section>
         <Footer />

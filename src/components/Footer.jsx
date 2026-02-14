@@ -78,7 +78,7 @@ function Footer() {
             © {new Date().getFullYear()} Smile Dental Clinic. All rights reserved.
           </p>
           <p className="text-gray-500 text-sm">
-            Made with <span className="text-red-500">❤</span> by Media FleetBlue
+            Made with <span className="text-red-500">❤</span>  by <a href="https://www.mediafleetblue.com/">Media FleetBlue</a>
           </p>
         </div>
       </div>
